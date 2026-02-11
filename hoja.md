@@ -1,6 +1,14 @@
 ### Hoja de vida 
+<table>
+  <tr>
+    <td width="16%">
+      <!-- Ajusta el width para el tamaño de tu foto -->
+      <img src="image.png" alt="Juan David Romero" width="120px" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
 
-![Texto alternativo](image.png)
+<!-- ![Texto alternativo](image.png) -->
 
 ## Nombre Completo
 - Juan David Romero Cedeño 
