@@ -1,6 +1,6 @@
 ### Hoja de vida 
 
-[foto](https://www.cultture.com/pics/2022/12/las-10-mejores-cosas-sobre-toji-fushiguro-de-jujutsu-kaisen.jpg)
+(image.png)
 
 ## Nombre Completo
 - Juan David Romero Cedeño 
