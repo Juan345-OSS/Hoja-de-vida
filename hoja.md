@@ -1,6 +1,6 @@
 ### Hoja de vida 
 
-(image.png)
+![Texto alternativo](image.png)
 
 ## Nombre Completo
 - Juan David Romero Cedeño 
